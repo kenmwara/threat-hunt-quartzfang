@@ -1,0 +1,13 @@
+9f3c6df03c7b93192f76baf7388d74184a68ac02c6a9ed6c612618423f877526  E1-two-requests-to-the-preview-api-at-06-52-20261027.png
+e269a6a47434571d842b51e7dcece3eaf3b7bc9470711d3362767d6d8bf546cd  E2-exploit-source-vs-scanners-only-203-0-11-20261027.png
+8ead4a8e25b5fff40d36e0ffed0baa6c0a1ae951dc0a96d23ee1ef9ef93b53d9  E3-ssrf-to-redis-to-cron-to-root-reverse-sh-20261027.png
+9dddce733be9f013f84363c56dc6b8d45c87544d518e9d4ae86e41ba67700f22  E4-the-reverse-shell-reads-the-credentials--20261027.png
+128f59372c4474bc4628d639489a0274287ffeaed4f7236978ff4b8c65adee79  E5-database-credential-from-portal-conf-con-20261027.png
+beb9739add9b30fdf185e625b86a595397ec49224b26f65c01839004fdbb764c  E6-registry-credential-used-from-the-portal-20261027.png
+240e8af40ababc3533b255e00b625b0de63449e3417b0b370135656b8c92e667  E7-visibility-gap-env-ran-as-root-but-no-ta-20261027.png
+0ab57ed0d412fe3b4e3f43da42c5dfcd68e81b0a3df2810bb0d736291ec1b79c  E8-tables-the-attacker-queried-that-the-app-20261027.png
+b978eeb52f8ac962fe75d487d60361dc2485fed3b2e00cb433d57fd940e0b2b6  E9-admin-api-services-and-topology-return-2-20261027.png
+3ca192b54711048cd1ae5a85f9a4d1a43272100e978ee68babd9452eaa6774aa  E10-registry-hallucination-no-layer-or-confi-20261027.png
+731d2784ab9e6d7e351758ddf85e08ef1f40b111e432a514a90385ee3d3559c5  E11-staging-exfiltration-and-persistence-all-20261027.png
+6f056ae97c839b0b1c649ccb933be3f27662e6a969e4eb825bab18d0f2ba70fd  E12-who-was-driving-human-directives-at-the--20261027.png
+09d091b8dfb6cd00871918cff7c724ae3d593eb63aef45e0dcc3a7d530fe4f5d  E13-the-archive-went-to-a-second-server-not--20261027.png
